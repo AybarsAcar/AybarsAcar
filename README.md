@@ -1,5 +1,5 @@
 
-<h3 align="center">Aybars Acar</h3>
+<h1 align="center">Aybars Acar</h1>
 
 <p align="center">
   <a href="https://github.com/AybarsAcar">Github</a> •
