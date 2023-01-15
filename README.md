@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**AybarsAcar/AybarsAcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aybars Acar</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/AybarsAcar">Github</a> •
+  <a href="https://www.linkedin.com/in/aybarsacar/">LinkedIn</a> •
+  <a href="https://aybars-test.azurewebsites.net/">Website</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h5 align="center">"SAFE CODE IS GREAT CODE"</h5>
+
+---
+
+* I currently work at UGL Limited as a Data Analyst.
+* And pursuing my Masters in Computer Science, Software Engineering at Monash Univeristy with a current GPA of 4.0
+* Enjoy working with distributed systems with Kubernetes and also love to work on native mobile clients
