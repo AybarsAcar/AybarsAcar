@@ -9,7 +9,7 @@
 
 <div>
   <h5 align="center">"IF YOU WANT TO PREDICT THE FUTURE, CREATE IT"</h5>
-  <p align="right">Peter Drucker</p>
+  <p align="center">Peter Drucker</p>
 </div>
 
 ---
