@@ -1,7 +1,7 @@
 <h1 align="center">Aybars Acar</h1>
 
 <p align="center">
-  <button href="https://github.com/AybarsAcar">Github</button> •
+  <a href="https://github.com/AybarsAcar">Github</a> •
   <a href="https://www.linkedin.com/in/aybarsacar/">LinkedIn</a> •
   <a href="https://aybars-test.azurewebsites.net/">Website</a>
 </p>
