@@ -7,8 +7,10 @@
   <a href="https://aybars-test.azurewebsites.net/">Website</a>
 </p>
 
-
-<h5 align="center">"SAFE CODE IS GREAT CODE"</h5>
+<div>
+  <h5 align="center">"IF YOU WANT TO PREDICT THE FUTURE, CREATE IT"</h5>
+  <p align="right">Peter Drucker</p>
+</div>
 
 ---
 
