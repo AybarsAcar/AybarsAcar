@@ -8,8 +8,8 @@
 </p>
 
 <div>
-  <h3 align="center">"IF YOU WANT TO PREDICT THE FUTURE, CREATE IT"</h3>
-  <p align="center">Peter Drucker</p>
+  <h3 align="center"></h3>
+  <p align="center"></p>
 </div>
 
 ---
