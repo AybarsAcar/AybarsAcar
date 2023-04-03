@@ -23,7 +23,7 @@
 
 * GitLab: https://git.infotech.monash.edu/oaca0001
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -38,7 +38,7 @@
 <br>
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
