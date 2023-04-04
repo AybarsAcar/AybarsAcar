@@ -17,7 +17,7 @@
 ## <b> About me... </b>
 <br>
 
-* I currently work at UGL Limited as a Data Engineer and Analyst.
+* I currently work at UGL Limited as a Data Engineer and Analyst on Microsoft Azure and SAP Platforms.
 * And pursuing my Masters in Computer Science, Software Engineering at Monash Univeristy with a current GPA of 4.0
 * Enjoy working with distributed systems with Kubernetes and also love to work on native mobile clients
 
